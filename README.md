@@ -8,7 +8,6 @@
 ##### Deskripsi:
 **IBF** dibuat pada **2 Desember 2022** lalu saya bagikan ke publik pada tanggal ```2des2022``` dengan versi 10.1 yang tersedia di termux dan pydroid3. [IBF](https://github.com/xyaacode/IBF) adalah induk dari semua script sehingga semua fitur akan sangat bagus di sini.
 
-[![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/IMG_20231209_130240.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap saat. Anda tidak perlu khawatir jika terjadi masalah karena script ini akan mempelajari cara update selanjutnya.
 
