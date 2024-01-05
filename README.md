@@ -36,7 +36,7 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
 
 ##### CARA MENJALANKAN TOOLS
 ```
-python run.py
+python IBF.py
 ```
 
 ##### ALL MENU:
