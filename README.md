@@ -40,7 +40,7 @@ python run.py
 ```
 
 ##### ALL MENU:
-[![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/IMG_20231209_140413.jpg)](https://wa.me/+447389666157?text=*Assalamualaikum%20Bang*)
+[![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/menu.jpg)](https://wa.me/+447389666157?text=*Assalamualaikum%20Bang*)
 
 ##### HALAMAN LOGIN:
 [![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/IMG_20231209_140424.jpg)](https://wa.me/+447389666157?text=*Assalamualaikum%20Bang)
