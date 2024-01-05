@@ -46,7 +46,7 @@ python run.py
 [![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/login.jpg)](https://wa.me/+447389666157?text=*Assalamualaikum%20Bang)
 
 ##### FITUR CHECKPOINT DETEKTOR:
-[![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/IMG_20231209_140444.jpg)](https://wa.me/+447389666157?text=*Assalamualaikum%20Bang)
+[![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/cp.jpg)](https://wa.me/+447389666157?text=*Assalamualaikum%20Bang)
 
 ##### RESULT CRACK:
 [![@xyaacode](https://github.com/xyaacode/IBF/blob/main/assets/IMG_20231209_152639.jpg)](https://wa.me/+447389666157?text=*Assalamualaikum%20Bang)
