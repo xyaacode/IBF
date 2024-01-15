@@ -25,6 +25,7 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  $ pip install bs4
  $ rm -rf IBF
  $ git clone https://github.com/xyaacode/IBF
+ $ pip install fake_useragent
  ```
 #### oke sekarang script sudah terinstall
 ##### CARA INSTALL BAHAN SCRIPT:
